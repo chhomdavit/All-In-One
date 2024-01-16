@@ -2,7 +2,7 @@ import dayjs from "dayjs"
 
 export const Config = {
     pagination : 5,
-    imagePath : "http://localhost/image_path/"
+    imagePath : "http://localhost:1001/file/"
 }
 
 export const isEmptyOrNull = (value) => {
